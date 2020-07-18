@@ -28,14 +28,14 @@ In turn, the participating organizations are able to identify and bring in new d
 
 ## Introduction
 
-I believe that, Open source projects are a great way of developing quality products by working together with other developers. I have always wanted to contribute to projects that I myself use to give back to the Community. Back in my school days, I remember using Wikipedia extensively for assignments and projects. While going through the GSoC organizations list, when I came across Wikimedia Foundation, I knew it was the organization I wanted to apply to. 
+I believe that Open source projects are a great way of developing quality products by working together with other developers. I have always wanted to contribute to projects that I myself use to give back to the Community. Back in my school days, I remember using Wikipedia extensively for assignments and projects. While going through the GSoC organizations list, when I came across Wikimedia Foundation, I knew it was the organization I wanted to apply to. 
 
 For me, Google Summer of Code was an opportunity to meet the community, exchange ideas, learn new skills play a small role in the open source community, and contribute to the organisation that I love. I immediately started working on drafting my proposal as well as performed all the required micro-tasks to familiarize myself with the codebase.
 
 #### Ad Astra Per Aspera
 
-May 4 2020, I get an email with the subject line **"GSoC 2020: Congratulations, your proposal with Wikimedia Foundation has been accepted!"** :tada: \
-My joy knew no bounds. I was super excited to get started and was looking forward to great summer ahead!
+May 4 2020, I got an email with the subject line **"GSoC 2020: Congratulations, your proposal with Wikimedia Foundation has been accepted!"** :tada: \
+My joy knew no bounds. I was super excited to get started and was looking forward to a great summer!
 
 The project I will be working on is [Upgrade WebdriverIO to the latest version for all repositories](https://phabricator.wikimedia.org/T247844). My Google Summer of Code Proposal can be found [here](https://phabricator.wikimedia.org/T248868).
 
@@ -61,10 +61,10 @@ For more info check [here](https://phabricator.wikimedia.org/T252704).
 
 #### The WaterCooler :potable_water:
 
-I always wondered how networking was possible if you are working remotely. But there's a solution for every problem right? So what if normal workplace scenarios like, heading out to get a glass of water and running into a co-worker at that point of time is not possible. You can always set up a meet to catch up with each other’s life. The WaterCooler meet aims to do just that. I personally feel it is a great initiative to learn more about each other and take some time off work.
+I always wondered how networking was possible if you are working remotely. But there's a solution for every problem right? So what if normal workplace scenarios like, heading out to get a glass of water and running into a co-worker at that point of time is not possible. You can always set up a meet to catch up with each others lives. The WaterCooler meet aims to do just that. I personally feel it is a great initiative to learn more about each other and take some time off work.
 
 I would like to share one of the stories I got to hear on the WaterCooler by James.
-Early in his career he worked in an aviation company in UK. The project was related to the network connectivity of the airplane during it's entire journey. The code was written. The code was tested by flying the plane through UK. Everything seemed to be working fine. Now the interesting part, during an international journey the network connection was working just fine uptil it suddenly disconnected completely. When the flight landed, the development team was called to figure out what went wrong. Turns out the flight passed through the equator (lattitude: 0) leading to the divide by zero error! :scream: 
+Early in his career he worked in an aviation company in the UK. The project was related to the network connectivity of the airplane during it's entire journey. The code was written. The code was tested by flying the plane through  UK Everything seemed to be working fine. Now the interesting part, during an international journey the network connection was working just fine uptil it suddenly disconnected completely. When the flight landed, the development team was called to figure out what went wrong. Turns out the flight passed through the equator (lattitude: 0) leading to the divide by zero error! :scream: 
 
 For someone like me, who is just getting started as a developer, I loved interacting with the highly experienced members of the community. (*Not kidding, few of them have years of experience greater than what my age is!*) 
 
