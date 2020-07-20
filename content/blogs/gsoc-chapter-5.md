@@ -25,7 +25,7 @@ If you have been following my blogs you'd know I was facing serious problems wit
 
 ### Project Status Update Meet
 
-I had one of the most eventful week so far, with so many things lined up one after the other. First in line was the GSoC/ Outreachy Project Status Update Meet! It was great meeting fellow folks again. Next update should be the Netflix Party with everyone. (Hopfully :sweat_smile:)
+I had one of the most eventful weeks so far, with so many things lined up one after the other. First in line was the GSoC/ Outreachy Project Status Update Meet! It was great meeting my fellow folks again. Next update should be a Netflix Party with everyone. (hopfully :sweat_smile:)
 
 {{<center src="/img/GSoC_Meet.jpeg" alt="GSoC Project Update Meet">}}
 
@@ -43,7 +43,7 @@ Upcoming: [John's Blog Post](https://phabricator.wikimedia.org/T258075)
 
 #### Week 8 and 9 
 
-:tada: Finally have a machine that works! Took some time to set up the new machine but all set to work now :information_desk_person:
+:tada: Finally have a machine that works! Took some time to set up the new machine but it's all set up now :information_desk_person:
 
 **Highlights:**
 > :white_check_mark: Partially Accomplished 
